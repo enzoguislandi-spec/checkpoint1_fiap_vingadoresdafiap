@@ -5,7 +5,10 @@ int main() {
     printf("Lucas Silva de Abreu\n");
     printf("Nicolas Castana Nishi\n");
     printf("Enzo Giovani Guislandi\n");
-    printf("Guilherme Augusto da Silva Reiche\n")
+    printf("Guilherme Augusto da Silva Reiche\n");
+    printf("João Pedro Camperlingo"); 
+
+
 
     return 0;
 }
